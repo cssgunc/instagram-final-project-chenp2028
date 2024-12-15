@@ -71,7 +71,7 @@ Once you've completed your Instagram clone, make sure to review the requirements
 
 **PLEASE ADD A PHOTO/VIDEO OF YOUR FINAL PROJECT HERE!:**
 
-[YOUR PHOTO/VIDEO GOES HERE]
+Final Demo: https://youtu.be/Fn1DSuHYO0U
 
 
 ## Resources
