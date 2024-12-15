@@ -1,0 +1,21 @@
+
+.middle{
+    margin-left: 26.5%;
+    margin-right: 8.5%;
+    border-top: 1px solid lightgrey;
+}
+
+.items{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 70px;
+}
+
+.middle-item{
+    display: flex;
+    gap: 0.5rem; /* Space between icon and text */
+    align-items: center; /* Vertically aligns the icon and text */
+    margin-right: 5rem;
+}

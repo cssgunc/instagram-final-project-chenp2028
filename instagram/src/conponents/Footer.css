@@ -1,0 +1,23 @@
+footer{
+  font-size: 11px;
+}
+
+.top{
+  justify-content: space-evenly;
+  display: flex;
+  margin-left: 5%;
+  margin-right: 8%;
+}
+
+.bottom{
+  display: flex;
+  margin-left: 42%;
+  margin-right: 30%;
+  gap: 1rem;
+}
+
+.footer-item{
+  display: flex;
+  align-items: center; /* Vertically aligns the icon and text */
+  gap: 0.2rem; 
+}

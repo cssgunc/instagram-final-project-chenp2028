@@ -1,0 +1,26 @@
+/* General layout container */
+.homepage-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start; /* Aligns items at the top */
+    max-width: 1200px; /* Adjust as needed */
+    margin: 0 auto; /* Center horizontally */
+    padding: 20px;
+  }
+  
+
+  
+  /* Middle Feed */
+  .middle-home {
+    flex: 2; /* Middle takes a larger proportion */
+    min-width: 500px; /* Set a minimum width for consistent alignment */
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Right Sidebar */
+  .home-right {
+    flex: 1; /* Right sidebar takes a proportional width */
+    max-width: 300px;
+  }
+  

@@ -1,0 +1,103 @@
+.RContainer{
+    right: 0;
+    top:0;
+    padding: 3% 2%;
+    padding-bottom: 12%;
+    height: 100%; 
+    width: 13%;
+    font-size: 14px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-left:8%;
+}
+
+.RTop{
+    display: flex;
+    align-items: center; /* Vertically aligns the icon and text */
+    gap: 1rem; /* Space between icon and text */
+    margin-bottom: 0.6rem; /* Adds spacing between each item */
+    flex-direction: row;
+    justify-content: start;
+}
+
+.RTop img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.pInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.pInfo p {
+    margin-bottom: 5%;
+    margin-top: 0;
+}
+
+.switch{
+    margin-left: 180%;
+    font-size: 12px;
+    text-decoration: none;
+    color: #0095f6;
+}
+
+.pDivider{
+    display: flex;
+    flex-direction: row;
+    margin-right: -700%;
+    gap: 38%;
+    font-size: 14px;
+    margin-bottom: 20%;
+}
+
+#grey {
+    color: lightgrey;
+}
+
+.follow{
+    margin-left: 250%;
+    font-size: 12px;
+    text-decoration: none;
+    color: #0095f6;
+}
+
+.pFooter0{
+    margin-right: -580%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:0.2rem;
+    text-align: start;
+    color: gray;
+    margin-top: 8%;
+}
+
+.pFooter0 p{
+    font-size: 11px;
+    margin-bottom: -3%;
+}
+
+.sub{
+    font-size: 13px;
+}
+
+.rightLast{
+    color:gray;
+    text-align: start;
+    font-size: 11px;
+    gap: 0.2rem;
+    
+    display: flex;
+    flex-direction: row;
+    margin-right: -600%;
+    margin-top: 50%;
+}
+
+.rightLast i{
+    margin-top: 4.5%;
+}
